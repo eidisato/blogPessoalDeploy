@@ -1,0 +1,12 @@
+.titulo{
+    font-weight: bold;
+}
+.cor-barra{
+    background-color: #fb44ff !important;
+}
+
+.text-color{
+    font: menu;
+    font-weight: bold !important;
+    color:black;
+}

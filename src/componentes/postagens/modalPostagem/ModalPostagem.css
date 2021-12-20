@@ -1,0 +1,9 @@
+.cursor{
+    cursor: pointer;
+}
+
+.btnModal{
+    border-color: #00ffff !important;
+    background-color: #fb44ff !important;
+    text-decoration-color: #fb44ff !important;
+}

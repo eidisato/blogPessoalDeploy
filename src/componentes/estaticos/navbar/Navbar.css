@@ -1,0 +1,17 @@
+.cor-do-navbar{
+    background: #fb44ff!important;
+}
+.bt_logout{
+    display: flex;
+    justify-content: flex-end;
+}
+.text-decotator-none{
+    text-decoration: none;
+}
+.pointer{
+    cursor: pointer;
+}
+.pointer-black{
+    cursor: pointer;
+    color: #00ffff!important;
+}

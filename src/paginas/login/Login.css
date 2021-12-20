@@ -1,0 +1,16 @@
+.text-decotator-none{
+    text-decoration: none;
+}
+
+.font-w{
+    font-weight: bold !important;
+}
+
+.caixa-login{
+    background-image: url(https://s10.gifyu.com/images/Dev.gif);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    width:100vh;
+    min-height: 100vh;
+}
